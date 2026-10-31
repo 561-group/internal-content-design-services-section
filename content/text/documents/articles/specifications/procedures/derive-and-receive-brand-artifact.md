@@ -87,7 +87,7 @@ distinction is proved simply because it has a striking poster.
    If source, package export, renderer, asset storage or operations reader is
    missing, repair *that seam*, not a new independent CSS copy.
 6. Keep values in the source-owned token profile. Derive CSS, printable rules
-   and other medium outputs from the same approved inputs. Preserve the house's
+   and other medium outputs from the same approved inputs. Preserve the Group's
    three type channels, geometric grids, named color roles, restrained accents,
    numbered folio, semantic captions and original client context.
    Automatically generated images never themselves certify source, licensing
@@ -141,7 +141,7 @@ discarded the owner's existing design language. A good CSS render and a
 source-to-Cloudflare receipt were not enough to detect that violation.
 
 - [Site correction #33](https://github.com/561-group/561.group/pull/33)
-  restored the original house look and replaced unwanted hero text.
+  restored the original Group look and replaced unwanted hero text.
 - [Content Design source repair #1](https://github.com/561-group/561-group-content-design-services-section/pull/1)
   fixed the real DTCG paths and added typed negative tests.
 - [Web Theming source repair #1](https://github.com/red-cup-engineering/web-theming-service/pull/1)
