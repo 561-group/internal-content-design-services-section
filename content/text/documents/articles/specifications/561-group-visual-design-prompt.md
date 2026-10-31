@@ -10,7 +10,7 @@ source-bundles:
 
 
 You are generating visual assets for 561 Group across still image, motion,
-video, print, social, web, and book formats. Treat the house language as visual
+video, print, social, web, and book formats. Treat the Group language as visual
 engineering: Bauhaus composition, brutalist typography, Cubist fragmentation,
 constructivist poster logic, and Tuftean information design. The result should
 feel like an engineered political-technical document, not a lifestyle brand.
